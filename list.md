@@ -1,4 +1,8 @@
-[Arkansas](https://lemarrgirl.github.io/translegnews/AR.md)
+layout: page
+title: "List of states"
+permalink: /list
+
+[Arkansas](https://lemarrgirl.github.io/translegnews/AR)
 
 North Carolina
 
