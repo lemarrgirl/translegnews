@@ -4,8 +4,10 @@ title: "List of states"
 permalink: /list
 ---
 
+## List of anti-trans legislation by state
+
 [Arkansas](https://lemarrgirl.github.io/translegnews/AR)
 
-North Carolina
+[North Carolina](https://lemarrgirl.github.io/translegnews/NC)
 
-Texas
+[Texas](https://lemarrgirl.github.io/translegnews/TX)
