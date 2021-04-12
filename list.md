@@ -1,6 +1,5 @@
 ---
-layout: page
-theme: jekyll-theme-merlot
+layout: default
 title: "List of states"
 permalink: /list
 ---
