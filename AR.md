@@ -4,6 +4,8 @@ title: "Arkansas"
 permalink: /AR
 ---
 
+## Arkansas
+
 ### HB1570 — the Save Adolescents From Experimentation (SAFE)
 
 "The SAFE Act would ban doctors from providing gender-affirming care, including puberty blockers and hormones, to trans people under the age of 18 or risk losing their license." (from The Cut, Amanda Arnold)
