@@ -15,4 +15,4 @@ permalink: /TX
 
 ### House Bill 68
 
-"... would reclassify gender-affirming care from a mental health professional or physician as child abuse." ([Chron](https://www.chron.com/politics/article/arkansas-anti-trans-bill-texas-16064413.php)
+"... would reclassify gender-affirming care from a mental health professional or physician as child abuse." ([Chron](https://www.chron.com/politics/article/arkansas-anti-trans-bill-texas-16064413.php))
